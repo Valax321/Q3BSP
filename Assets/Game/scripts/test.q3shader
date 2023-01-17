@@ -1,0 +1,13 @@
+textures/test/lit
+{
+    surfaceparm concrete
+    {
+        map $lightmap
+        rgbGen identity
+    }
+    {
+        map textures/test/test_texture.tga
+        blendFunc GL_DST_COLOR GL_ZERO
+        rgbGen identity
+    }
+}

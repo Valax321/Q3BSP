@@ -1,0 +1,16 @@
+{
+    "name": "OrbGarden.Q3BSP",
+    "rootNamespace": "OrbGarden.TrenchbroomImport",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

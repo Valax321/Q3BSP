@@ -1,0 +1,4 @@
+# Excluding BSPs because I shamelessly extracted some from existing games
+
+*.bsp
+*.bsp.meta
