@@ -1,0 +1,16 @@
+{
+    "name": "com.orbgarden.q3bsp",
+    "displayName": "Quake 3 BSP Importer",
+    "description": "Quake 3 BSP workflow for level design. Generates a functional Trenchbroom setup from your Unity project.",
+    "author": {
+        "name": "Audrey Castillo"
+    },
+    "category": "Level Design",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "keywords": [
+        "quake",
+        "bsp",
+        "map"
+    ]
+}

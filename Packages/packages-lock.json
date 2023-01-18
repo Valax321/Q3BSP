@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.orbgarden.q3bsp": {
+      "version": "file:com.orbgarden.q3bsp",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
