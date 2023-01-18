@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace OrbGarden.Q3BSP.BSPImporter
 {
-    public class BSPLightmap
+    internal class BSPLightmap
     {
         public const int LENGTH = 128 * 128 * 3;
         

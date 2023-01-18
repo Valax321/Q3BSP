@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace OrbGarden.Q3BSP.BSPImporter
 {
-    public class BSPLeaf
+    internal class BSPLeaf
     {
         public const int LENGTH = 12 * 4; // 12x int32s
         

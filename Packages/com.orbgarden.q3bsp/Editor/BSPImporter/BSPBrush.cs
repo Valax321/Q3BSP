@@ -2,7 +2,7 @@ using System.IO;
 
 namespace OrbGarden.Q3BSP.BSPImporter
 {
-    public class BSPBrush
+    internal class BSPBrush
     {
         public const int LENGTH = 3 * 4;
         

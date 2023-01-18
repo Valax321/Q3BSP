@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace OrbGarden.Q3BSP.BSPImporter
 {
-    public class BSPLightVol
+    internal class BSPLightVol
     {
         public const int LENGTH = 3 + 3 + 2;
         
